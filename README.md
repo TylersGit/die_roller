@@ -1,4 +1,4 @@
-# # die roller
+# Die Roller
 I started writing this program to let myself easily roll massive amounts of dice easily, and to generate D&D stat arrays without all the hassle it involves. 
 
 ## Features:
